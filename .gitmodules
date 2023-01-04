@@ -1,0 +1,4 @@
+[submodule "railuino_src"]
+	path = railuino_src
+	url = https://github.com/guidodehek/railuino.git
+	branch = master
